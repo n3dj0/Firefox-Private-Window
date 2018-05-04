@@ -4,8 +4,9 @@ A simple Alfred worklfow to open a private window in Firefox on macOS.
 
 ## Usage
 
-Open Alfred search and type:
-`private`
+Open Alfred search and type:  
+`.private {query}`  
+The `{query}` is optional.
 
 ## System used for Testing
 
